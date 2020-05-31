@@ -1,6 +1,6 @@
 <?php
-include("../../path.php");
-include(ROOT_PATH . '/app/database/Database.php');
+include("../path.php");
+include(ROOT_PATH . '/app/Database.php');
 include(ROOT_PATH . '/models/Post.php');
 
 header("Access-Control-Allow-Origin: *");
